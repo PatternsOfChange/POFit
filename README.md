@@ -43,4 +43,4 @@ The findings suggest that **PO Fit** plays a critical role in shaping how employ
 2. **Assess long-term effects**: Evaluate sustained engagement in training and its impact on performance over time.
 
 ### Contact
-For further details or collaboration, contact [your_email@example.com].
+For further details or collaboration, contact [juancarlos@lucidity.work].
