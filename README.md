@@ -24,7 +24,6 @@ Managers should prioritize hiring individuals who align with the company’s val
 ---
 
 ## Main Findings
-
 1. **Training Culture as a Moderator**:
    - No significant moderation effect (p = 0.358 for intention, p = 0.233 for course completion).
 
